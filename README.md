@@ -10,10 +10,8 @@ ServiceNow Developer focused on ITSM automation, incident workflows, and catalog
 - UI Policies
 - GlideRecord (Basics)
 
-## Projects
+## Project
 - Incident Auto Assignment System
-- Parent-Child Incident Auto Closure
-- Service Catalog Automation
 
 ## Contact
 LinkedIn: www.linkedin.com/in/akash-manchikalapati-130a65258
